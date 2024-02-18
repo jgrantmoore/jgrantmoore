@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm a second-year computer science major at the University of Georgia. <br>I'm interested in pursuing a career in Software Engineering.<br>I have already interned at Card-Monroe Corp. as a R&D Intern with a specialization in Software Engineering.<br>Feel free to explore my repositories and projects! <br>And be sure to check out my portfolio website at https://jgmoore.tech
+Hi! I'm a second-year computer science major at the University of Georgia. <br>I'm interested in pursuing a career in Software Engineering.<br>I have already interned at Card-Monroe Corp. as an R&D Intern with a specialization in Software Engineering.<br>Feel free to explore my repositories and projects! <br>And be sure to check out my portfolio website at https://jgmoore.tech
 
 
 ## 🌐 Socials:
